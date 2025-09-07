@@ -1,3 +1,4 @@
+<!-- This is a project from my las class that has some about me -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
